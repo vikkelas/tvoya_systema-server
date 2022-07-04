@@ -1,5 +1,5 @@
 # Твоя система
-H2 Server
+## Server
 ####NodeJS + express
 ####Используемая база данных postrgeSQL
 доступ к базе данных при помощи <strong>sequelize<br>
